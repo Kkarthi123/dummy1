@@ -4,5 +4,5 @@ console.log([...a])
 <<<<<<< HEAD
 console.log('hello');
 =======
-// hello
+
 >>>>>>> 216b5db74077b8cd2fc84bfe384d78512525d95d
